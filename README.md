@@ -4,11 +4,11 @@
 ### * start a python3 virtual environment, 
 ### * install django and django rest framework
 
-`mkdir expense_calculator <br>
+mkdir expense_calculator <br>
 cd expense_calculator <br>
 python3 -m venv venv <br>
 source venv/bin/activate <br>
 pip install django djangorestframework <br>
 django-admin startproject expense_calculator . <br>
 django-admin startapp expenses <br>
-python manage.py runserver`
+python manage.py runserver
